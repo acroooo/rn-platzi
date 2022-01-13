@@ -1,2 +1,3 @@
 # rn-platzi
-React Native practice code from Platzi platform
+
+React Native practice code for the course "Introducción a React Native"
