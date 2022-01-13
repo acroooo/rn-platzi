@@ -8,10 +8,10 @@ export default function HomeScreen() {
         navigation.navigate('Settings');
     }
     return (
-        <View>
+        <SafeAreaView>
             <Text>Estamos en HomeScreen</Text>
 
             <Button title="Go to Settings" onPress={goToPage} />
-        </View>
+        </SafeAreaView>
     )
 }
